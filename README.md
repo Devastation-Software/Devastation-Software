@@ -1,2 +1,5 @@
 # Devastation-Software
-A
+
+Devastation Software: the best software company in the world!
+
+(hopefully this displays on our company profile)
